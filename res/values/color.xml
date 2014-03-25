@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <!-- 进度条文字的颜色 -->
+    <color name="progress_text_color">#ffffff</color>
+    <!-- 进度条阴影文字的颜色 -->
+    <color name="progress_text_shadow_color">#f69c00</color>
+    
+    <!-- 进度条背景的颜色 -->
+    <color name="progress_bg">#ffdb6f</color>
+    <!-- 进度条背景边框的颜色 -->
+    <color name="progress_bg_border">#ffcc73</color>
+    
+    <!-- 进度条的颜色 -->
+    <color name="progress">#dc3e3d</color>
+    <!-- 进度条边框的颜色 -->
+    <color name="progress_border">#be2e2d</color>
+    
+</resources>

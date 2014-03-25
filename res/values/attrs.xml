@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="progress_bar">
+        <attr name="textSize" format="dimension"/>
+        <attr name="textColor" format="color"/>
+        <attr name="shadowColor" format="color"/>
+        <attr name="shadowX" format="dimension"/>
+        <attr name="shadowY" format="dimension"/>
+        <attr name="shadowRadius" format="dimension"/>
+        <attr name="progressDrawable" format="reference"/>
+        <attr name="progressBackground" format="reference"/>
+    </declare-styleable>
+    
+</resources>
