@@ -16,9 +16,9 @@ import android.view.animation.AccelerateDecelerateInterpolator;
 import android.view.animation.Interpolator;
 
 /**
+ * 带动画的进度条
  * 
  * @author WangYunzhen
- *
  */
 public class ProgressBar extends View {
 

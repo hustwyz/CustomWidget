@@ -8,8 +8,8 @@
         <attr name="shadowX" format="dimension"/>
         <attr name="shadowY" format="dimension"/>
         <attr name="shadowRadius" format="dimension"/>
-        <attr name="progressDrawable" format="reference"/>
-        <attr name="progressBackground" format="reference"/>
+        <attr name="progressDrawable" format="reference|color"/>
+        <attr name="progressBackground" format="reference|color"/>
     </declare-styleable>
     
 </resources>
